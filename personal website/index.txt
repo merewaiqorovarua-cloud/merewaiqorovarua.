@@ -1,0 +1,42 @@
+<html>
+<head>
+      <tittle>All about me <tittle>
+	  <!--
+	  Author: Merewai Qorovarua
+	  Date: 09 March 2026
+	  -->
+</head>
+<body style="background-color:peachpuff;">
+<h2 style="text-align: center;"> 
+<img src ='image/me.jpg' height="350" width="300"/>
+</h2>
+<h1 style="color:red;text-align: center;font-family:Algerian;font-size:"50">MEREWAI QOROVARUA</h1>
+</h2>
+<p style="text-align: center;">I am Merewai Qorovarua, I love swimming. </p>
+<h3style="background-color:lightblue;">My personal information</h3>
+<ol>
+   <li>Age: 18 years old </li>
+   <li>birthday: 19 June 2008 </li>
+   <li>adress: Nawaka, Campus, Nadi, Fiji </li>
+</ol>
+<h3 style="background-color:lightblue;"> About my skills</h3>
+<p style="text-align:center;">
+<img src ='image/volleyball.jpg'/>
+<img src ='image/netball.jpg'/>
+<img src ='image/swimming.jpg'/>
+</p>
+<hr/>
+<h3 style="background-color:lightblue;"> Fun fact about me </h3>
+<ul type="circle">
+    <li> I love playing netball </li>
+	<li> I love playing volleyball </li>
+	<li> I love swimming </li>
+</ul>
+<hr/>
+<a href="http://www.facebook.com><img src ='image/facebook icon.webp'height="50" width="50"/></a>
+<a href="http://www.instagram.com><img src ='image/instagram icon.webp'height="50" width="50"/></a>
+<a href="http://www.gmail.com><img src =image/gmail icon. jpg'height="50" width="50"/></a>
+
+
+</body>
+</html>
